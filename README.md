@@ -2,4 +2,4 @@
  Implement blackjack game with basic MVC to understand the concept
 
 To understand rules follow
-https://github.com/SnehalChetan/oophp-blackjack
+https://github.com/snehalasodekar/oophp-blackjack
